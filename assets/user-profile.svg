@@ -41,7 +41,7 @@
     font-family="monospace"
     font-size="16"
     fill="#FFFFFF">
-    STATUS:
+    &#10148; STATUS:
   </text>
 
   <text
@@ -61,7 +61,7 @@
     font-family="monospace"
     font-size="16"
     fill="#FFFFFF">
-    ROLE: ADS STUDENT
+    &#10148; ROLE: ADS STUDENT
   </text>
 
   <!-- Focus -->
@@ -71,7 +71,7 @@
     font-family="monospace"
     font-size="16"
     fill="#FFFFFF">
-    FOCUS: FRONT-END
+    &#10148; FOCUS: FRONT-END
   </text>
 
   <!-- Interests -->
@@ -91,7 +91,7 @@
     font-family="monospace"
     font-size="15"
     fill="#FFFFFF">
-    WEB DEVELOPMENT • UI/UX
+    &#10148; WEB DEVELOPMENT • UI/UX
   </text>
 
   <text
@@ -100,7 +100,7 @@
     font-family="monospace"
     font-size="15"
     fill="#FFFFFF">
-    PIXEL ART • DIGITAL ART • GAME DESIGN
+    &#10148; PIXEL ART • DIGITAL ART • GAME DESIGN
   </text>
 
 </svg>
