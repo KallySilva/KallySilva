@@ -1,0 +1,106 @@
+<svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Fundo -->
+  <rect width="500" height="300" fill="#000000"/>
+
+  <!-- Título -->
+  <text
+    x="20"
+    y="35"
+    font-family="monospace"
+    font-size="22"
+    font-weight="bold"
+    fill="#FF8FAB">
+    &gt; USER_PROFILE.EXE
+  </text>
+
+  <!-- Nome -->
+  <text
+    x="20"
+    y="80"
+    font-family="monospace"
+    font-size="28"
+    font-weight="bold"
+    fill="#FF8FAB">
+    KALLYANDRA
+  </text>
+
+  <!-- Linha -->
+  <line
+    x1="20"
+    y1="95"
+    x2="480"
+    y2="95"
+    stroke="#FF8FAB"
+    stroke-width="2"/>
+
+  <!-- Status -->
+  <text
+    x="20"
+    y="130"
+    font-family="monospace"
+    font-size="16"
+    fill="#FFFFFF">
+    STATUS:
+  </text>
+
+  <text
+    x="105"
+    y="130"
+    font-family="monospace"
+    font-size="16"
+    font-weight="bold"
+    fill="#FF8FAB">
+    ONLINE
+  </text>
+
+  <!-- Role -->
+  <text
+    x="20"
+    y="160"
+    font-family="monospace"
+    font-size="16"
+    fill="#FFFFFF">
+    ROLE: ADS STUDENT
+  </text>
+
+  <!-- Focus -->
+  <text
+    x="20"
+    y="190"
+    font-family="monospace"
+    font-size="16"
+    fill="#FFFFFF">
+    FOCUS: FRONT-END
+  </text>
+
+  <!-- Interests -->
+  <text
+    x="20"
+    y="230"
+    font-family="monospace"
+    font-size="18"
+    font-weight="bold"
+    fill="#FF8FAB">
+    INTERESTS
+  </text>
+
+  <text
+    x="20"
+    y="258"
+    font-family="monospace"
+    font-size="15"
+    fill="#FFFFFF">
+    WEB DEVELOPMENT • UI/UX
+  </text>
+
+  <text
+    x="20"
+    y="280"
+    font-family="monospace"
+    font-size="15"
+    fill="#FFFFFF">
+    PIXEL ART • DIGITAL ART • GAME DESIGN
+  </text>
+
+</svg>
