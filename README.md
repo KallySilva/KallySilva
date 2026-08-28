@@ -34,9 +34,9 @@
 
 ---
 
-## `> ABOUT_ME.TXT`
+## > ABOUT_ME.TXT
 
-```text
+```
 Hello, I'm Kallyandra.
 
 I'm an ADS student currently focused on learning front-end development and building my own projects.
@@ -45,7 +45,9 @@ I enjoy combining programming with visual design, digital art, pixel art and gam
 
 Currently learning:
 HTML • CSS • JavaScript • Git • GitHub
+```
 
+```
 > SKILSS.EXE
 DEVELOPMENT
 HTML
@@ -57,7 +59,9 @@ CREATIVE
 PIXEL ART
 DIGITAL ART
 UI / UX
+```
 
+```
 > TOOLS.EXE
 VS CODE • GIT • GITHUB • NOTION
 
@@ -71,7 +75,9 @@ VS CODE • GIT • GITHUB • NOTION
 [ ] UI / UX
 [ ] Game Development
 [ ] Back-End Development
+```
 
+```
 > PROJECTS.EXE
 
 01 — CALCULATOR.EXE
@@ -91,14 +97,18 @@ My personal portfolio website.
 
 HTML CSS JAVASCRIPT
 | OPEN PROJECT →
+```
 
+```
 > CREATIVE_TOOLKIT.EXE
 PIXEL ART
 DIGITAL ILLUSTRATION
 CHARACTER DESIGN
 ASSET CREATION
 UI DESIGN
+```
 
+```
 >  CONNECT.WITH.ME
 
 GitHub
@@ -110,3 +120,4 @@ www.linkedin.com/in/kallyandra-silvats
 > END OF FILE_
 THANK YOU FOR VISITING.
 ...
+```
