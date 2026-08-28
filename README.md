@@ -1,6 +1,6 @@
 <div align="center">
 
-kallyan 𐔌՞. .՞𐦯
+_KALLYAN ᨳ𐔌՞҂ ˕ ֊՞𐦯ᜊ_
 
 ---
 
@@ -22,23 +22,17 @@ kallyan 𐔌՞. .՞𐦯
 
 <table align="center">
 <tr>
+  
 <td width="45%" align="center">
 <img src="./assets/perfil.png" width="300"> <br>
-
-###
-
-`SCAN COMPLETE`
-`STATUS: ONLINE`
-
-###
 </td>
   
 <td>
   <img src="./assets/user-profile.svg" width="500">
-
-
 </td>
+
 </tr>
+
 </table>
 
 ---
