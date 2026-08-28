@@ -78,7 +78,7 @@ PISKEL • ASEPRITE
 ▸ ORGANIZATION
 NOTION
 
-▸ CURRENTLT_LEARNING
+▸ CURRENTLY_LEARNING
 [x] HTML                                 [ ] UI / UX
 [x] CSS                                  [ ] Game Development
 [x] JavaScript                           [ ] Back-End Development
