@@ -1,8 +1,5 @@
 <svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Fundo -->
-  <rect width="500" height="300" fill="#000000"/>
-
   <!-- Título -->
   <text
     x="20"
