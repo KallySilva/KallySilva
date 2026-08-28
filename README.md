@@ -128,6 +128,9 @@ GitHub
 
 LinkedIn
 www.linkedin.com/in/kallyandra-silvats
+
+E-mail
+kallyandrasilvats@gmail.com
 ```
 
 ###
