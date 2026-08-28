@@ -1,8 +1,11 @@
 <div align="center">
-  
----
-# KALLYAN :-P
-  
+
+═ ═══ ═════ ═══════ ▌│█║▌║▌║ ▌│█ <p align="center">
+  <img src="./assets/littlepc.gif" width="32">
+</p>   ║▌║▌║ ▌│█║▌║▌║ ═══════ ═════ ═══ ═
+
+
+
 ### SYSTEM ONLINE
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
@@ -26,8 +29,8 @@
 </td>
   
 <td>
+  <img src="./assets/user-profile.svg" width="500">
 
-<img src="./assets/user-profile.svg" width="500">
 
 </td>
 </tr>
