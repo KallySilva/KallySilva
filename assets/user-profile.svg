@@ -41,7 +41,7 @@
     font-family="monospace"
     font-size="16"
     fill="#FFFFFF">
-    &#10148; STATUS:
+    &#10148; STATUS: 
   </text>
 
   <text
@@ -51,7 +51,7 @@
     font-size="16"
     font-weight="bold"
     fill="#FF8FAB">
-    ONLINE
+    &#160; ONLINE
   </text>
 
   <!-- Role -->
