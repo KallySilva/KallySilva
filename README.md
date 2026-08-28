@@ -12,9 +12,7 @@
 
 ---
 
-## > USER_PROFILE.EXE
-
-<table>
+<table align="center">
 <tr>
 <td width="45%" align="center">
 <img src="./assets/perfil.jpeg" width="300"> <br>
