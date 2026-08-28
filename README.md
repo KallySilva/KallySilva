@@ -17,11 +17,14 @@
 <table>
 <tr>
 <td width="45%" align="center">
-<img src="https://github.com/user-attachments/assets/9cff2053-413a-41e1-b088-4c3066af8c6f" width="300"> <br>
+<img src="./assets/perfil.jpeg" width="300"> <br>
+
+###
 
 `SCAN COMPLETE`
-
 `STATUS: ONLINE`
+
+###
 </td>
   
 <td>
