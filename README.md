@@ -26,25 +26,7 @@
   
 <td>
 
-## KALLYAN SILVA
-
-▸ STATUS: ONLINE
-
-▸ ROLE: ADS STUDENT
-
-▸ FOCUS: FRONT-END DEVELOPMENT
-
-
-### INTERESTS
- 
-
-▸ WEB DEVELOPMENT • UI / UX
-
-▸ PIXEL ART • DIGITAL ART
-
-▸ GAME DESIGN 
-
-###
+<img src="./assets/user-profile.svg" width="500">
 
 </td>
 </tr>
