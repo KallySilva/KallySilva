@@ -1,3 +1,5 @@
+![Kally's GitHub Banner](KALLY.png)
+
 # Hey, I'm Kally!
 
 ### Aspiring Game Developer • Programmer in Progress • Digital Art Enthusiast
